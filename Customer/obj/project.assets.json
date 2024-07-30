@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/cong.nguyen/Developer/c#/dotnet/dotnet-test/test/test.csproj",
-      "projectName": "test",
-      "projectPath": "/Users/cong.nguyen/Developer/c#/dotnet/dotnet-test/test/test.csproj",
+      "projectUniqueName": "/Users/cong.nguyen/Developer/c#/dotnet/dotnet-test/Customer/Customer.csproj",
+      "projectName": "Customer",
+      "projectPath": "/Users/cong.nguyen/Developer/c#/dotnet/dotnet-test/Customer/Customer.csproj",
       "packagesPath": "/Users/cong.nguyen/.nuget/packages/",
-      "outputPath": "/Users/cong.nguyen/Developer/c#/dotnet/dotnet-test/test/obj/",
+      "outputPath": "/Users/cong.nguyen/Developer/c#/dotnet/dotnet-test/Customer/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/cong.nguyen/.nuget/NuGet/NuGet.Config"

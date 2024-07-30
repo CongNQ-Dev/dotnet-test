@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "vflLddJioFHihdV1EmueCgZm0eNco0hlgm7Gh8Rdiud1AqXeQqkHJdc2eGGeAy0ksF/7eifV2r0BikR7mD0PWw==",
+  "dgSpecHash": "FanNIyi7hFA9CDY8iJ8Wi8rAqmK1dSVXvqYU2V7pnuLqrXyeYT9HnsDFrUlv+qLiRwqqwaY1mmjvAmHw2XyVyQ==",
   "success": true,
-  "projectFilePath": "/Users/cong.nguyen/Developer/c#/dotnet/test/test/test.csproj",
+  "projectFilePath": "/Users/cong.nguyen/Developer/c#/dotnet/dotnet-test/test/test.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
